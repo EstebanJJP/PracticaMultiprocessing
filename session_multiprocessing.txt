@@ -1,0 +1,85 @@
+Script started on 2022-02-03 10:12:22+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="48"]
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ clone [K[K[K[K[K[Kgot[K[Kit vclon[K[K[K[K[Kclone https://github.com/EstebanJJP/PracticaMultiprocessing.git
+Clonando en 'PracticaMultiprocessing'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Desempaquetando objetos:  33% (1/3)Desempaquetando objetos:  66% (2/3)Desempaquetando objetos: 100% (3/3)Desempaquetando objetos: 100% (3/3), 608 bytes | 35.00 KiB/s, listo.
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd /home//[Kmat/Mult[K[K[K[K
+.cache/                  Documentos/              .git/                    .ipython/                Música/                  prueba/                  .thunderbird/            
+.config/                 EjerciciosPRPA/          .gnupg/                  .local/                  Plantillas/              Público/                 Vídeos/                  
+Descargas/               Escritorio/              Imágenes/                .mozilla/                PracticaMultiprocessing/ .ssh/                    
+]0;mat@mat-VirtualBox: ~[01;32mmat@mat-VirtualBox[00m:[01;34m~[00m$ cd /home/mat/PracticaMultiprocessing/
+]0;mat@mat-VirtualBox: ~/PracticaMultiprocessing[01;32mmat@mat-VirtualBox[00m:[01;34m~/PracticaMultiprocessing[00m$ ls
+multiprocessing1.py  README.md
+]0;mat@mat-VirtualBox: ~/PracticaMultiprocessing[01;32mmat@mat-VirtualBox[00m:[01;34m~/PracticaMultiprocessing[00m$ pythom[Kn3
+Python 3.8.5 (default, Jul 28 2020, 12:59:40) 
+[GCC 9.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+]0;mat@mat-VirtualBox: ~/PracticaMultiprocessing[01;32mmat@mat-VirtualBox[00m:[01;34m~/PracticaMultiprocessing[00m$ python3 multiprocessing1.py
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 2
+hola 3
+hola 3
+hola 4
+hola 4
+]0;mat@mat-VirtualBox: ~/PracticaMultiprocessing[01;32mmat@mat-VirtualBox[00m:[01;34m~/PracticaMultiprocessing[00m$ python3 multiprocessing1.py[1P.py2.py
+fin
+fin
+fin
+fin
+hola soy ana 1 vuelta 0
+adios
+hola soy ana 0 vuelta 0
+adios
+hola soy ana 2 vuelta 0
+fin
+adios
+adios
+hola soy ana 3 vuelta 0
+fin
+fin
+adios
+hola soy ana 4 vuelta 0
+adios
+hola soy ana 5 vuelta 0
+adios
+fin
+fin
+hola soy ana 6 vuelta 0
+fin
+hola soy ana 7 vuelta 0
+adios
+adios
+hola soy ana 8 vuelta 0
+hola soy ana 0 vuelta 1
+hola soy ana 9 vuelta 0
+adios
+hola soy ana 0 vuelta 2
+hola soy ana 2 vuelta 1
+hola soy ana 2 vuelta 2
+hola soy ana 9 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 7 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 4 vuelta 1
+hola soy ana 1 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 4 vuelta 2
+hola soy ana 9 vuelta 2
+hola soy ana 7 vuelta 2
+hola soy ana 8 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 5 vuelta 2
+hola soy ana 3 vuelta 2
+]0;mat@mat-VirtualBox: ~/PracticaMultiprocessing[01;32mmat@mat-VirtualBox[00m:[01;34m~/PracticaMultiprocessing[00m$ exit
+
+Script done on 2022-02-03 10:28:22+01:00 [COMMAND_EXIT_CODE="0"]
